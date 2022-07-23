@@ -1,0 +1,3 @@
+	b2. What is an Object in Object Oriented Programming Language?
+
+	-An object is an abstract data type with the addition of polymorphism and inheritance. ... An object has state (data) and behavior (code). Objects can correspond to things found in the real world. So for example, a graphics program will have objects such as circle, square, menu.

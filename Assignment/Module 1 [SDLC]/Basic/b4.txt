@@ -1,0 +1,3 @@
+-what is design pettern?
+    
+        in software engineering a design pettern is a general repeatable solution to a commonly occuring problem in software design. a desing pettern isn't a finished design that can be transformed directly into code. it is a discription or a templet for how to solve problem that can be used in many different situations.

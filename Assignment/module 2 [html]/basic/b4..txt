@@ -1,0 +1,3 @@
+b4.how to define a container for an external (non-html) application?
+
+         -the aprpproch of this article is to define a container for an external application by using element in the document.

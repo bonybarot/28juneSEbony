@@ -1,0 +1,6 @@
+-types of software?
+
+    there are three types of software
+      -system software
+      -programming software
+      -application software

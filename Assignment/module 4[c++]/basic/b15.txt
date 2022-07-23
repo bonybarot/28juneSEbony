@@ -1,0 +1,4 @@
+	b15. What is Friend Function in Object Oriented Programming?
+
+
+	-In object-oriented programming, a friend function, that is a "friend" of a given class, is a function that is given the same access as methods to private and protected data. A friend function is declared by the class that is granting access, so friend functions are part of the class interface, like methods.

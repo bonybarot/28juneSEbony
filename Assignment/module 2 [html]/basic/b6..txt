@@ -1,0 +1,3 @@
+b6. how to underline a text in a html document?
+
+        -we will create an underline text by using the <u> tag in the document. it stands for underline and it is used to underline text enclosed within the <u> tag. this tag is generally used to underline misspelled words. this tag requires a starting as well as ending tag.

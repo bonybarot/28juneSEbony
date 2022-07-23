@@ -1,0 +1,3 @@
+a8. what is the usage of class selector?
+
+      -class selector is used to select all elements which belon to a particular class attribute. to select the elements with a particular class, use (.) character with specifiying class name. class name is mostly used to set the CSS property to given class.

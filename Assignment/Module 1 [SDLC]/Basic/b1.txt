@@ -1,0 +1,3 @@
+-what is software?
+
+  Software, is a collection of computer programs and related data that provide the instructions for telling a computer what to do and how to do it

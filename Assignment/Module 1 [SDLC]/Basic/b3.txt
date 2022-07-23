@@ -1,0 +1,4 @@
+-what is software development methodology?
+    
+       a software development methodology is also called as SDLC.
+       SDLC is a structure imposed on the development of a software product that defines the process for planning,implementation,testing documentation,deployment and ongoing maintanace and supportthere are a numbers o of different development models. 

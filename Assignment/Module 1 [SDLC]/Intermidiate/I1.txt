@@ -1,0 +1,3 @@
+-difference between application software and system software ?
+
+      system software is ment to manage the sytem resourses. it serves as the platform to run application software. application software helps perform a specific set of functions for wich they have been designed.application software is developed in high-level language such as java, c++.

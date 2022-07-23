@@ -1,0 +1,23 @@
+-SDLC each phase process?
+
+    there are six phases in SDLC
+     -requirement gathering
+     -analysis
+     -design 
+     -implementation
+     -testing
+     -maintenance
+
+
+
+             requirement gathering:- establish customer needs
+             
+             analysis:-model and specify the requirements "what"
+          
+             design:-model and specify a solution "why"
+             
+             implementation:-construct a solution in software
+
+             testing:-validate the solution against the requirments
+
+             maintenance:-repair defects and adapt the solution to the new requirements

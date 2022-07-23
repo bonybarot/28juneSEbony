@@ -1,0 +1,3 @@
+	b17. What is the role of mutable storage class specifier?
+
+	-The mutable storage class specifier is used only on a class data member to make it modifiable even though the member is part of an object declared as const . You cannot use the mutable specifier with names declared as static or const , or reference members.

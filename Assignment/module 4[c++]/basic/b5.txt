@@ -1,0 +1,4 @@
+	b5. What Is Data hiding in Object Oriented Programming Language?
+
+
+	-Data hiding is a software development technique specifically used in object-oriented programming (OOP) to hide internal object details (data members). Data hiding ensures exclusive data access to class members and protects object integrity by preventing unintended or intended changes.
