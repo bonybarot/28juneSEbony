@@ -1,0 +1,39 @@
+1.What do you understand By Database:
+
+	-A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS).
+
+2.What is Normalization? 
+
+	-Normalization is the process of organizing data in a database. This includes creating tables and establishing relationships between those tables according to rules designed both to protect the data and to make the database more flexible by eliminating redundancy and inconsistent dependency.
+
+3.What is Difference between DBMS and RDBMS?
+
+	-DBMS stands for Database Management System, and RDBMS is the acronym for the Relational Database Management system. In DBMS, the data is stored as a file, whereas in RDBMS, data is stored in the form of tables.
+
+4.What is MF Cod Rule of RDBMS Systems? 
+
+	-This rule states that for a system to qualify as an RDBMS, it must be able to manage database entirely through the relational capabilities.
+
+5.What do you understand By Data Redundancy? 
+
+	-Data redundancy refers to the practice of keeping data in two or more places within a database or data storage system. Data redundancy ensures an organization can provide continued operations or services in the event something happens to its data -- for example, in the case of data corruption or data loss.
+
+6.What is DDL Interpreter?
+
+	-DDL Interpreter interprets the DDL statements and records the generated statements in the table containing metadata.
+
+7.What is DML Compiler in SQL?
+
+	-DML compiler translates DML statements in a query language into a low-level instruction and the generated instruction can be understood by Query Evaluation Engine. answered Nov 9, 2018 by Sahiti.
+
+8.What is SQL Key Constraints an Example of SQL Key Constraints
+
+	-The following constraints are commonly used in SQL: NOT NULL - Ensures that a column cannot have a NULL value. UNIQUE - Ensures that all values in a column are different. PRIMARY KEY - A combination of a NOT NULL and UNIQUE .
+
+9.What is save Point? How to create a save Point write a Query?
+
+	-To verify that the record's name field with ID as 1 is updated successfully, we will again execute the SELECT query. To save the transaction with this updated record, we will create a new savepoint. Here, the table with the updated record is saved with the savepoint named 'upd'.
+
+10.What is trigger and how to create a Trigger in SQL?
+
+	-A trigger is a special type of stored procedure that automatically runs when an event occurs in the database server. DML triggers run when a user tries to modify data through a data manipulation language (DML) event. DML events are INSERT, UPDATE, or DELETE statements on a table or view.
